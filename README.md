@@ -6,14 +6,6 @@
 ## 📖 Overview
 This project applies **Machine Learning** techniques to analyze and predict **employee turnover** based on multiple workforce-related features. The dataset contains anonymized employee information, including education, job history, demographics, and salary tier. The goal is to train models to predict whether an employee will leave or stay using various classification algorithms.
 
-## 📂 Project Structure
-```
-├── machine_learning_assignment.py  # Main script for data analysis and model training
-├── Employee.csv                     # Dataset file (Ensure to add this before running the script)
-├── README.md                         # Project documentation (this file)
-└── requirements.txt                  # Dependencies for the project
-```
-
 ## 📊 Dataset Information
 - **Source**: [Kaggle - Employee Dataset](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset)
 - **Target Variable**: `LeaveOrNot` (1 = Employee leaves, 0 = Employee stays)
