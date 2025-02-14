@@ -1,12 +1,10 @@
-```markdown
-# 📌 Machine Learning Assignment - Company Turnover Check
-
-![GitHub](https://img.shields.io/badge/ML-Python-blue) ![GitHub](https://img.shields.io/badge/Status-Completed-green)
 
 ## 📖 Overview
+
 This project applies **Machine Learning** techniques to analyze and predict **employee turnover** based on multiple workforce-related features. The dataset contains anonymized employee information, including education, job history, demographics, and salary tier. The goal is to train models to predict whether an employee will leave or stay using various classification algorithms.
 
 ## 📊 Dataset Information
+```bash
 - **Source**: [Kaggle - Employee Dataset](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset)
 - **Target Variable**: `LeaveOrNot` (1 = Employee leaves, 0 = Employee stays)
 - **Key Features**:
@@ -18,6 +16,7 @@ This project applies **Machine Learning** techniques to analyze and predict **em
   - `Gender`: Gender identity
   - `EverBenched`: Whether an employee had gaps in assigned work
   - `Experience`: Years worked in the current domain
+```
 
 ## 🚀 Installation
 Ensure you have **Python 3.x** installed and then install dependencies using:
